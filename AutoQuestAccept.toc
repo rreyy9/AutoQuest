@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Auto Quest Accept
+## Notes: Automatically accepts quests when talking to NPCs
+## Author: Your Name
+## Version: 1.0
+## SavedVariables: 
+
+AutoQuestAccept.lua
